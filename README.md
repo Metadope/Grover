@@ -6,6 +6,8 @@ handler for all Windows file types. The global viewer provides a hex
 dump browser for any file type, and then supercedes that view with 
 specific viewers for other types of files.
 
+Scintilla is used to provide syntax-highlighted source views.
+
 
 
 
